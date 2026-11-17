@@ -16,6 +16,13 @@ A feedforward neural network implemented from scratch in Java, with backpropagat
 
 - Java JDK 11 or newer (Swing is part of the JDK)
 - Eclipse is optional; the repository includes Eclipse project metadata
+- A `.tool-versions` file pins JDK 11 for asdf users
+
+Install the pinned toolchain with asdf:
+
+```bash
+asdf install
+```
 
 ## Build
 
